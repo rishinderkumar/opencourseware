@@ -1,0 +1,144 @@
+.form-3
+{
+   background: none repeat scroll 0 0 #186c89;
+    border-color: #3a3a3a;
+    border-radius: 5px;
+    border-style: ridge;
+    border-width: medium;
+    box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1);
+    font-family: sans-serif;
+    font-size: 12px;
+    height: 201px;
+    width: 278px;
+	}
+
+ .popup{
+ position: absolute;
+ top:150px; 
+ left:350px; 
+ z-index:999; 
+ display:none;
+ 
+ }
+ .overlay{
+ position:absolute; 
+ top:0px;
+ left:0px;
+ opacity:0.8; 
+ z-index:999; 
+ width:100%;
+ height:100%;
+ display:none;
+ background-color:#000; 
+ }
+ #logbox{
+ cursor:pointer;
+  font-size: 11px;
+  font-size: 11px;
+  }
+
+body
+{
+   background-color: #FFFFFF;
+   color: #000000;
+   font-family: Arial;
+   font-size: 13px;
+   margin: 0;
+   padding: 0;
+}
+
+
+a
+{
+   color: #0000FF;
+   text-decoration: underline;
+}
+a:visited
+{
+   color: #800080;
+}
+a:active
+{
+   color: #FF0000;
+}
+a:hover
+{
+   color: #0000FF;
+   text-decoration: underline;
+}
+
+
+.signupform_table
+{
+   background-color: #FFFFFF;
+   border-color:#000000;
+   border-width:1px;
+   color: #000000;
+   font-family: Arial;
+   font-size: 13px;
+   text-align: left;
+   border-spacing: 13px;
+   width:479px;
+   height:438px
+}
+.signupform_header
+{
+   background-color: rgb(24, 108, 137);
+    color: #ffffff;
+    text-align: center;
+	 height: 48px;
+}
+.signupform_text
+{
+   background-color: #FFFFFF;
+   border-color: #000000;
+   border-width: 1px;
+   border-style: solid;
+   color: #000000;
+   font-family: Arial;
+   font-size: 13px;
+}
+.signupform_button
+{
+	background-color: rgb(24, 108, 137);
+	border-style: solid;
+	border-width: 1px;
+	color: #D6D6D6;
+	font-family: Arial;
+	height: 35px;
+	margin-bottom: 0;
+	padding-left: 6px;
+	width: 87px;
+	font-style: normal;
+	font-weight: normal;
+}
+#wb_Text1 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+   text-align: left;
+}
+#wb_Text1 div
+{
+   text-align: left;
+}
+#login{
+	background-color: rgb(24, 108, 137);
+    border-radius: 5px;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    font-size: 25px;
+    height: 87px;
+    margin-bottom: 0;
+    position: absolute;
+    right: 318px;
+    text-align: center;
+    top: 250px;
+    width: 229px;
+}
+ #wb_Signup2 {
+  padding-left: 10px;
+    padding-right: 0;
+    width: 502px;
+}

@@ -1,0 +1,20 @@
+.header_bg {
+    background-color: rgb(24,108,137);
+    height: 61px;
+    width: 962px;
+}
+.logo {
+    background: url("../Images/RAMS-logo.jpg") no-repeat scroll 0 0 transparent;
+    float: left;
+    height: 50px;
+    left: 27px;
+    position: relative;
+    top: 4px;
+    width: 202px;
+}
+
+body {
+    border: 1px solid #ccc;
+    height: 610px;
+    width: 962px;
+}

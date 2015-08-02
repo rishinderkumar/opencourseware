@@ -1,0 +1,253 @@
+
+.userheader_bg {
+	background-color: rgb(255,255,255);
+	/* [disabled]height: 61px; */
+	position: relative;
+	width: 100%;
+	top:15px;
+        height: 75px;
+}
+
+
+.logo {
+	background: url("../Images/tools_64px.png") no-repeat scroll 0 0 transparent;
+	float: left;
+	  height: 66px;
+    right: 765px;
+    width: 93px;
+	left: 25px;
+	position: absolute;
+	top: 8px;
+	
+}
+
+
+.log_out {
+ background: url("../Images/logout.png") no-repeat scroll 0 0 transparent;
+    cursor: pointer;
+    height: 50px;
+    position: absolute;
+    right: 4px;
+    top: 5px;
+    width: 188px;
+}
+.enrolledcourses {
+}
+
+.tool_bg {
+	background-color: rgb(255, 255, 255);
+	float: right;
+	position: relative;
+	right: 2px;
+	height: 54px;
+    top: 21px;
+    width: 945px;
+}
+.editcourse {
+    
+}
+.startcourse {
+
+}
+
+
+.requestform{
+display:none;
+    border-spacing: 13px;
+    color: #000000;
+    font-family: Arial;
+    font-size: 16px;
+    text-align: left;
+	 margin-top: -70px;
+	
+}  
+.selection{
+display:none;
+}  
+.tool_action {
+    height: 400px;
+    left: 425px;
+    position: relative;
+    top: 125px;
+    width: 524px;
+}
+.request_table {
+    height: 58px;
+    position: relative;
+    width: 363px;
+	top: -43px;
+}
+#request_button
+{
+background-color:rgb(24,108,134);
+border-width: 1px;
+border-style: solid;
+color: #FFF;
+font-family: Arial;
+position:center;
+height: 34px;
+margin-left: 150px;
+margin-top: 0px;
+width: 112px;
+
+}
+#form_header
+{
+background-color: rgb(24, 108, 134);
+    color: #ffffff;
+    height: 24px;
+    text-align: center;
+    width: 370px;
+	font-family: Arial;
+    font-size: 16px;
+	}
+
+.left_box{
+	background: none repeat scroll 0 0 transparent;
+	float: left;
+	height: 187px;
+	margin-right: 0;
+	margin-top: 0;
+	position: absolute;
+	top: 378px;
+	width: 256px;
+	text-align: center;
+	left: -12px;
+	
+	}
+.wrapper{
+        height: 1517px;
+    position: relative;
+    width: 100%
+}
+.coursecontainer{
+ 
+    position: relative;
+    width: 186px;
+	display: block;
+	top: -359px; 
+	height: auto;
+	display:none;
+}
+
+.courselist{
+ cursor:pointer;
+ color:rgb(60,60,60);
+ font-family: "Open Sans",Verdana,Geneva,sans-serif,sans-serif;
+    font-weight: bold;
+    line-height: 1.3;
+    margin-bottom: 0;
+	
+ /* border-style: outset; */
+ }
+ .courselist :hover{
+   color:#0B0B0B
+   }
+ 
+ .weekcontainer
+     {
+	display: none;
+    height: 58px;
+    left: 379px;
+    position: relative;
+    top: -555px;
+    width: 509px;
+	}
+	.weekcontainer ul{}
+	.weekcontainer ul li{
+	cursor: pointer;
+    display: inline-block;
+    margin: 10px;
+	}
+
+	  
+#editor1{
+    display:none ;
+    height: 175px;
+    left: 51px;
+    margin-right: 8px;
+    margin-top: 15px;
+    position: relative;
+    width: 416px;
+}
+.textfieldedit
+{
+  display:none;
+  }
+ol, ul {
+    list-style: none outside none;
+}
+li{
+display:inline;
+}
+ul{
+overflow:hidden;
+white-space:nowrap; 
+}
+#username{
+  color:#FFFFFF;
+    font: 700 1.2em/1.2em "Open Sans",Verdana,Geneva,sans-serif,sans-serif;
+    margin: 0;
+    overflow: hidden;
+    padding: 15px 10px 17px;
+    text-overflow: ellipsis;
+    text-transform: none;
+	cursor:pointer;
+ }
+ #logout{
+   color:#FFFFFF;
+    font: 700 1.2em/1.2em "Open Sans",Verdana,Geneva,sans-serif,sans-serif;
+    margin: 0;
+    overflow: hidden;
+    padding: 15px 10px 17px;
+    text-overflow: ellipsis;
+    text-transform: none;
+	cursor:pointer;
+ }
+ .enrolledcontainer{
+ 
+    display:none;
+    height: 282px;
+    position: absolute;
+    top: 292px;
+    width: 186px;
+	cursor:pointer;
+	
+}
+.enrolledweek{
+  
+    
+	display: none;
+    height: 58px;
+    left: 379px;
+    position: relative;
+    top: -369px;
+    width: 509px;
+	cursor: pointer;
+	}
+.enrolledweek ul{}
+	.enrolledweek ul li{
+	cursor: pointer;
+    display: inline-block;
+    margin: 10px;
+	}
+	.course-lib-container{
+	 height: 135px;
+    left: 250px;
+    margin-top: 0;
+    position: relative;
+    top: -354px;
+    width: 728px;
+	}
+	.weekcontent
+	{
+	 height: 400px;
+    left: 373px;
+    margin-top: 0;
+    position: relative;
+    top: -308px;
+    width: 550px;
+	display:none;
+	}
+
+
