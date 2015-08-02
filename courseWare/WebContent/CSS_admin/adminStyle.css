@@ -1,0 +1,39 @@
+
+
+* {
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+	.course-lib-container{
+	 height: auto;
+  
+    margin-top: 0;
+    position: relative;
+   
+    width:80%;
+	left:150px;
+	}
+.userlist-container
+{
+     height: auto;
+  
+    margin-top: 0;
+    position: relative;
+   
+    width:80%;
+	left:150px;
+}
+.requestlist-container
+{
+     height: auto;
+  
+    margin-top: 0;
+    position: relative;
+   
+    width:80%;
+	left:150px;
+}
+  
+
+	

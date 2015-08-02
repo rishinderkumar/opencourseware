@@ -1,0 +1,54 @@
+.enrolledcontainer{
+ 
+     display: hidden;
+   float: left;
+    height: auto;
+	width: 25%;
+	 padding-left: 5px;
+    padding-right: 5px;
+	
+}
+.enrolledweek{
+  
+    
+	  display: hidden;
+    height: auto;
+    width: 72%;
+	 cursor: pointer;
+	 left: 25px;
+	 float:left;
+   
+    top: 50px;
+	text-align: left;
+	}
+.enrolledweek ul{}
+	.enrolledweek ul li{
+	cursor: pointer;
+    display: inline-block;
+    margin: 10px;
+	}
+	.course-lib-container{
+	 height: auto;
+    left: 250px;
+    margin-top: 0;
+    position: relative;
+    top: 50px;
+    width: 550px;
+	}
+	.weekcontent
+	{
+	 
+	 height: auto;
+    left: 0px;
+    margin-top: 0px;
+    
+    top: 76px;
+    width: 72%;
+    text-align: left;
+	float:right;
+	}
+	* {
+    margin: 0;
+    padding: 0;
+    position: relative;
+}

@@ -1,0 +1,49 @@
+
+.table-title{
+  background: none repeat scroll 0 0 #186c89;
+    padding: 20px;
+	
+    height: 51px;
+    margin-bottom: 0;
+    margin-left: 0px;
+    margin-top: 187px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    width: auto;
+	color:#FFFFFF;
+	
+	}
+	.table-rows{
+	background:#FFFFFF;
+	padding: 20px;
+	
+    height: 36px;
+    margin-bottom: 0;
+    margin-left: 175px;
+    margin-top: 187px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    width: 576px;
+	text-align:center;
+	 }
+	 #titleData{
+	  width:160px;
+	  
+	  
+	 }
+	  .enrollButton
+	  {
+background-color: rgb(24, 108, 137);
+    border: 0 solid silver;
+    border-radius: 3px;
+    font-family: verdana;
+    height: 10px;
+    margin-top: 10px;
+    padding: 10px;
+    width: 41px;
+cursor:pointer;
+	}
+	.enrollButton :hover {
+    background-color: rgb(11, 11, 11);
+}
+	 
